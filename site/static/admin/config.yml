@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: Ivan-Dosev/one-click-hugo-cms
+  repo: https://github.com/Ivan-Dosev/one-click-hugo-cms
   branch: main
 
 media_folder: "site/static/img" # Folder where user uploaded files should go
